@@ -64,3 +64,13 @@ With the Obsidian desktop app running:
 ```bash
 uv run python scripts/obsidian_smoke.py
 ```
+
+## Reusable Skill
+
+This repository includes a distributable agent skill at:
+
+```text
+skills/lumen-learning-note/
+```
+
+Copy that folder into your agent's local skills directory if you want another Codex/Claude-style agent to call Lumen for study-note recording.

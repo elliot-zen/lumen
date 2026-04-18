@@ -1,0 +1,17 @@
+{
+  "type": "learning_note",
+  "topic": "ES",
+  "chapter_title": "Async Iteration",
+  "what_i_learned": [
+    "for await...of iterates async values",
+    "async iterables are useful for streaming results"
+  ],
+  "questions": [
+    "When should I use streams?",
+    "How do async generators propagate errors?"
+  ],
+  "source": {
+    "kind": "codex_session",
+    "title": "ES learning notes"
+  }
+}
